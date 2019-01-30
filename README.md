@@ -5,7 +5,7 @@ What is the smallest number of horses you can place on a chessboard so that they
 
 This task (known as the “horse dominance problem”) is well known. Location options there are quite a few, but how many exactly? And if, again, to consider options to the accuracy of turns and symmetries? And for any size of board? For example, for a 13x13 board, twenty-eight horses are enough, and for a 35x35 board?
 
-In this project, the task of calculating the smallest number of horses for a chessboard of arbitrary size is implemented. For the calculation of applied genetic search algorithm. Hence, such properties as "IndividualCount" and TP.
+In this project, the task of calculating the smallest number of horses for a chessboard of arbitrary size is implemented. For the calculation of applied genetic optimization algorithm. Hence, such properties as "IndividualCount" and so on.
 
 Enjoy using.
 
